@@ -1,0 +1,40 @@
+html tags => open Tag  Means contains '<>'
+             close Tag Mean contain '</>'
+<pre>     => The  tag defines preformatted text.
+
+<!DOCTYPE html> => document type declaration
+
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+
+The <html> element is the root element of an HTML page
+
+The <head> element contains meta information about the HTML page
+
+The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+
+The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+The <h1> element defines a large heading
+
+
+The <p> element defines a paragraph
+
+The <br> element  give some spaces
+
+<img> element used for display the image and using with help of "src" attributes
+
+<a> element defines a hyperlink with help of "href" attributes
+
+<hr> it invokes horizontal line
+
+<b> / <strong> its used for bold the words or letters
+
+<i> used for change font style as 'italic'
+
+<q> its gives the double quotation to the text
+
+<sup> it gives power of the value  (ex. a2 -> if u r using <sup> tag then it will change as a^2)
+
+
+
+
